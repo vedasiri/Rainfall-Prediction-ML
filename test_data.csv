@@ -1,0 +1,6 @@
+pressure,dewpoint,humidity,cloud,sunshine,winddirection,windspeed
+990,25,95,90,1,180,25
+1020,10,30,10,10,180,5
+1008,18,60,40,6,120,12
+995,24,92,88,1,200,20
+1015,12,40,20,8,170,8
