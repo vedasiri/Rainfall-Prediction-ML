@@ -28,6 +28,15 @@ A Machine Learning-based web application that predicts whether rainfall is expec
 * Streamlit
 * Joblib
 
+streamlit (web app)
+Pandas (data handling)
+NumPy (arrays)
+Scikit-Learn (ML model)
+Matplotlib (feature importance plots)
+Joblib (save/load model)
+Imbalanced-Learn (SMOTE/downsampling support)
+
+
 ---
 
 # 📁 Project Structure
